@@ -1,6 +1,7 @@
 # sanket_shendge_rnnassignment
 
 🛠 Instructions on How to Run the Program
+
 ▶️ Option 1: Run on Google Colab (Recommended)
 Open the Notebook
 
